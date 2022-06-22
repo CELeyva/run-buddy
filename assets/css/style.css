@@ -67,6 +67,9 @@ footer a {
     background-position: center;
     position: relative;
 }
+section {
+    padding: 60px;
+}
 .hero-form {
     border: solid 3px #024e76;
     background-color: #fce138;
@@ -76,9 +79,6 @@ footer a {
     position: absolute;
     bottom: 120px;
     right: 140px;
-}
-section {
-    padding: 60px;
 }
 .hero-form h3{
     font-size: 24px;
